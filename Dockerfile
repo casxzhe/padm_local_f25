@@ -8,7 +8,9 @@ COPY jupyter_server_config.py /etc/jupyter/
 # Expose the Jupyter Lab port
 EXPOSE 9000
 
-WORKDIR /work
+ARG HW_DIR
+ENV HW_DIR=${HW_DIR}
+WORKDIR /work/homeworks/${HW_DIR}
 
 # Start Jupyter Lab
 CMD ["jupyter", "lab", "--ip=0.0.0.0", "--port=9000", "--no-browser", "--allow-root"]

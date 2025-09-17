@@ -6,8 +6,14 @@ if [ "$#" -ne 1 ]; then
   exit 1
 fi
 
+if [ "$1" = "ps1" ]; then
+  HW_DIR="ps1-uninformed-search"
+else
+  HW_DIR=$1
+fi
+
 # exit if build fails
 set -e 
 
-docker compose build --build-arg HW_TAG=$1
+docker compose build --build-arg HW_TAG=$1 --build-arg HW_DIR=$HW_DIR
 docker compose up
