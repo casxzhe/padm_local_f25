@@ -3,6 +3,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
+    platform: linux/amd64
     network_mode: bridge
     ports:
       - "9000:9000"
