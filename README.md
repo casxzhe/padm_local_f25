@@ -3,7 +3,7 @@ This repository aims to support running homework for the Principles of Autonomy 
 
 
 ## Mac/Linux Instructions
-> Note: If you are running Windows please follow the Windows/WSL instructions below.
+> *Note: If you are running Windows please follow the Windows/WSL instructions below.*
 
 ### Requirements
 You will need to install [Docker Desktop](https://www.docker.com/products/docker-desktop/).
@@ -70,6 +70,24 @@ jupyterlab-1  |   http://127.0.0.1:9000/lab?token=<some token id> <-- USE THIS L
 ...
 ```
 Once you open the last link in your browser, you should see your local files on the left side of your screen. From there, you can open your homework notebook and start working on it.
+
+<!-- ### Visual Studio Code
+Install the Jupyter extension. 
+
+Open the padm_local_f25 folder
+
+Click `Select Kernel` in the top right corner
+
+If you run into a `FILL IN LATER` error, add the following lines to _____
+```python
+import sys
+sys.path.append('/work/homeworks/name-of-folder-for-this-ps-#')
+```
+For example, for ps1, you would add
+```python
+import sys
+sys.path.append('/work/homeworks/ps1-uninformed-search')
+``` -->
 
 > **Note:** If you want to use a local editor, most can connect to an existing Jupyter server. You can use the token provided in the output (the 127 one) to connect your editor to the Jupyter server. [Instructions for VSCode](https://code.visualstudio.com/docs/datascience/jupyter-kernel-management#_existing-jupyter-server)
 
