@@ -1,0 +1,113 @@
+{
+    "tests": [
+        {
+            "name": "test_01_romania_graph (principles_of_autonomy.notebook_tests.pset_2.TestPSet2)",
+            "score": 2,
+            "max_score": 2,
+            "status": "passed"
+        },
+        {
+            "name": "test_02_graph_search_problem (principles_of_autonomy.notebook_tests.pset_2.TestPSet2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed"
+        },
+        {
+            "name": "test_03_uniform_cost_search (principles_of_autonomy.notebook_tests.pset_2.TestPSet2)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed",
+            "output": "Path of length 6, cost: 508.000: ['A', 'S', 'R', 'P', 'B', 'G'] 15 4\n"
+        },
+        {
+            "name": "test_04_euclid_distance (principles_of_autonomy.notebook_tests.pset_2.TestPSet2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed"
+        },
+        {
+            "name": "test_05_euclid_heuristic (principles_of_autonomy.notebook_tests.pset_2.TestPSet2)",
+            "score": 2,
+            "max_score": 2,
+            "status": "passed"
+        },
+        {
+            "name": "test_06_greedy (principles_of_autonomy.notebook_tests.pset_2.TestPSet2)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed",
+            "output": "Path of length 5, cost: 540.000: ['A', 'S', 'F', 'B', 'G'] 5 7\n"
+        },
+        {
+            "name": "test_07_astar (principles_of_autonomy.notebook_tests.pset_2.TestPSet2)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed",
+            "output": "Path of length 6, cost: 508.000: ['A', 'S', 'R', 'P', 'B', 'G'] 11 6\n"
+        },
+        {
+            "name": "test_08_grid_to_graph (principles_of_autonomy.notebook_tests.pset_2.TestPSet2)",
+            "score": 15,
+            "max_score": 15,
+            "status": "passed"
+        },
+        {
+            "name": "test_09_eucl_dist_cell (principles_of_autonomy.notebook_tests.pset_2.TestPSet2)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_10_astar_grid (principles_of_autonomy.notebook_tests.pset_2.TestPSet2)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed",
+            "output": "Path of length 9, cost: 9.657: [(2, 1), (1, 0), (0, 1), (0, 2), (0, 3), (1, 4), (2, 4), (3, 4), (4, 3)] 14 4\n"
+        },
+        {
+            "name": "test_11_collision_testing (principles_of_autonomy.notebook_tests.pset_2.TestPSet2)",
+            "score": 2,
+            "max_score": 2,
+            "status": "passed"
+        },
+        {
+            "name": "test_12_nearest_neighbor (principles_of_autonomy.notebook_tests.pset_2.TestPSet2)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed"
+        },
+        {
+            "name": "test_13_extend (principles_of_autonomy.notebook_tests.pset_2.TestPSet2)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_14_simple_environment (principles_of_autonomy.notebook_tests.pset_2.TestPSet2)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed"
+        },
+        {
+            "name": "test_15_bugtrap_environment (principles_of_autonomy.notebook_tests.pset_2.TestPSet2)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed"
+        },
+        {
+            "name": "test_16_complex_environment (principles_of_autonomy.notebook_tests.pset_2.TestPSet2)",
+            "score": 20,
+            "max_score": 20,
+            "status": "passed"
+        },
+        {
+            "name": "test_17_form_word (principles_of_autonomy.notebook_tests.pset_2.TestPSet2)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.01",
+    "score": 120
+}
