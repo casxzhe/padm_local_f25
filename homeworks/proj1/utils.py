@@ -445,35 +445,3 @@ P2_B1 = np.array([["C", "S", "C", "C", "C"], ["S", "U", "U", "C", "U"],
 P2_G0 = np.array([["C", "S", "C", "C", "C"], ["S", "F", "S", "C", "C"],
                   ["S", "F", "S", "C", "S"], ["S", "F", "F", "S", "F"],
                   ["C", "S", "S", "C", "S"], ["C", "C", "C", "C", "C"]])
-
-
-def test_policy(belief_map, true_map, problem, policy):
-    """Test a policy on a SearchAndRescue problem.
-
-    Args:
-        belief_map: A numpy array specifying the belief map
-        true_map:   A numpy array specifying the state map
-        problem:    A SearchAndRescueProblem instance
-        policy:     A policy returned by a policy making fn.
-                    e.g. make_planner_policy(problem, planner)
-    """
-    height, width = true_map.shape
-    bottom, right = height - 1, width - 1
-    robot = (0, right)
-    hospital = (bottom, right)
-    people = {'pp': (bottom, right - 1)}  # Peter Parker
-    carrying = None
-    # Environment state
-    env_state = State(robot=robot,
-                      hospital=hospital,
-                      people=people,
-                      carrying=carrying,
-                      state_map=true_map)
-    # Initial belief: omniscient
-    b0 = BeliefState(robot=robot,
-                     hospital=hospital,
-                     people=people,
-                     carrying=carrying,
-                     state_map=belief_map)
-    # Do it
-    return agent_loop(problem, env_state, policy, b0)
