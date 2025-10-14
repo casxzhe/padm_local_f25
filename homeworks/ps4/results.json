@@ -1,0 +1,73 @@
+{
+    "tests": [
+        {
+            "name": "test_01_naive_search (principles_of_autonomy.notebook_tests.pset_4.TestPSet4)",
+            "score": 15,
+            "max_score": 15,
+            "status": "passed"
+        },
+        {
+            "name": "test_02_backtracking_search (principles_of_autonomy.notebook_tests.pset_4.TestPSet4)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed"
+        },
+        {
+            "name": "test_03_forward_checking (principles_of_autonomy.notebook_tests.pset_4.TestPSet4)",
+            "score": 20,
+            "max_score": 20,
+            "status": "passed"
+        },
+        {
+            "name": "test_04 (principles_of_autonomy.notebook_tests.pset_4.TestPSet4)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_05 (principles_of_autonomy.notebook_tests.pset_4.TestPSet4)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_06 (principles_of_autonomy.notebook_tests.pset_4.TestPSet4)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_07 (principles_of_autonomy.notebook_tests.pset_4.TestPSet4)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_08_planning_warmup (principles_of_autonomy.notebook_tests.pset_4.TestPSet4)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_09_pddl_warmup (principles_of_autonomy.notebook_tests.pset_4.TestPSet4)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed"
+        },
+        {
+            "name": "test_10 (principles_of_autonomy.notebook_tests.pset_4.TestPSet4)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed"
+        },
+        {
+            "name": "test_11_form_word (principles_of_autonomy.notebook_tests.pset_4.TestPSet4)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.13",
+    "score": 95
+}
