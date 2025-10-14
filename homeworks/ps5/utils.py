@@ -1,5 +1,6 @@
 from copy import copy
-
+class Error(Exception):
+    pass
 
 # General game state object to work with multiple games
 class game_state:
