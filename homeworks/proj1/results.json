@@ -1,0 +1,49 @@
+{
+    "tests": [
+        {
+            "name": "test_01_warmup_1 (principles_of_autonomy.notebook_tests.proj_1.TestProj1)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_02_warmup_2 (principles_of_autonomy.notebook_tests.proj_1.TestProj1)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_03_sar_pddl (principles_of_autonomy.notebook_tests.proj_1.TestProj1)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_04_infer_unknown (principles_of_autonomy.notebook_tests.proj_1.TestProj1)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed"
+        },
+        {
+            "name": "test_05_belief_update (principles_of_autonomy.notebook_tests.proj_1.TestProj1)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed"
+        },
+        {
+            "name": "test_06_safe_not_smart (principles_of_autonomy.notebook_tests.proj_1.TestProj1)",
+            "score": 7,
+            "max_score": 7,
+            "status": "passed"
+        },
+        {
+            "name": "test_07_safe_smart (principles_of_autonomy.notebook_tests.proj_1.TestProj1)",
+            "score": 7,
+            "max_score": 7,
+            "status": "passed"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "547.00",
+    "score": 49
+}

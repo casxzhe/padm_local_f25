@@ -1,0 +1,60 @@
+{
+    "tests": [
+        {
+            "name": "test_1_convergence (principles_of_autonomy.notebook_tests.pset_6.TestPSet6)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_2_value_iteration (principles_of_autonomy.notebook_tests.pset_6.TestPSet6)",
+            "score": 25,
+            "max_score": 25,
+            "status": "passed",
+            "output": "Converged after 13 iterations (\u03b5=0.001)\nConverged after 35 iterations (\u03b5=0.001)\nConverged after 80 iterations (\u03b5=0.001)\nConverged after 2 iterations (\u03b5=0.001)\nConverged after 47 iterations (\u03b5=0.001)\n"
+        },
+        {
+            "name": "test_3_extract_policy (principles_of_autonomy.notebook_tests.pset_6.TestPSet6)",
+            "score": 15,
+            "max_score": 15,
+            "status": "passed",
+            "output": "Converged after 13 iterations (\u03b5=0.001)\nConverged after 35 iterations (\u03b5=0.001)\nConverged after 68 iterations (\u03b5=0.001)\nConverged after 5 iterations (\u03b5=0.001)\n"
+        },
+        {
+            "name": "test_4_observations (principles_of_autonomy.notebook_tests.pset_6.TestPSet6)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed"
+        },
+        {
+            "name": "test_5_policy_evaluation (principles_of_autonomy.notebook_tests.pset_6.TestPSet6)",
+            "score": 15,
+            "max_score": 15,
+            "status": "passed",
+            "output": "Policy evaluation converged after 39 iterations (\u03b5=0.001)\n"
+        },
+        {
+            "name": "test_6_policy_improvement (principles_of_autonomy.notebook_tests.pset_6.TestPSet6)",
+            "score": 15,
+            "max_score": 15,
+            "status": "passed",
+            "output": "Policy evaluation converged after 39 iterations (\u03b5=0.001)\n"
+        },
+        {
+            "name": "test_7_policy_iteration (principles_of_autonomy.notebook_tests.pset_6.TestPSet6)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed",
+            "output": "Policy evaluation converged after 40 iterations (\u03b5=0.001)\nPolicy evaluation converged after 35 iterations (\u03b5=0.001)\nPolicy iteration converged after 2 iterations.\n"
+        },
+        {
+            "name": "test_8_form_word (principles_of_autonomy.notebook_tests.pset_6.TestPSet6)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.10",
+    "score": 100
+}

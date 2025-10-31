@@ -1,0 +1,62 @@
+(define (domain searchandrescue)
+        (:requirements :typing)
+        (:types person location direction)
+        (:constants
+          down - direction
+          left - direction
+          right - direction
+          up - direction
+        )
+        (:predicates
+          (conn ?v0 - location ?v1 - location ?v2 - direction)
+          (is-clear ?v0 - location)
+          (robot-at ?v0 - location)
+          (person-at ?v1 - person ?v2 - location)
+          (carrying ?v0 - person)
+          (handsfree)
+        
+          
+        )
+        (:action move-robot
+        :parameters (?from - location ?to - location ?dir - direction)
+        :precondition (and
+          (conn ?from ?to ?dir)
+          (robot-at ?from)
+          (is-clear ?to)
+        )
+        :effect (and
+          (not (robot-at ?from))
+          (robot-at ?to)
+          (is-clear ?from)
+          (not (is-clear ?to))
+        )
+      )
+    
+      (:action pickup-person
+        :parameters (?person - person ?loc - location)
+        :precondition (and
+          (robot-at ?loc)
+          (person-at ?person ?loc)
+          (handsfree)
+        )
+        :effect (and
+          (carrying ?person)
+          (not (person-at ?person ?loc))
+          (not (handsfree))
+        )
+      )
+    
+      (:action dropoff-person
+        :parameters (?person - person ?loc - location)
+        :precondition (and
+          (robot-at ?loc)
+          (carrying ?person)
+        )
+        :effect (and
+          (person-at ?person ?loc)
+          (handsfree)
+          (not (carrying ?person))
+        )
+      )
+        
+    )
