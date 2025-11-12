@@ -1,0 +1,37 @@
+{
+    "tests": [
+        {
+            "name": "test_1_direct_evaluation (principles_of_autonomy.notebook_tests.pset_7.TestPSet7)",
+            "score": 20,
+            "max_score": 20,
+            "status": "passed"
+        },
+        {
+            "name": "test_2_TD_learning (principles_of_autonomy.notebook_tests.pset_7.TestPSet7)",
+            "score": 20,
+            "max_score": 20,
+            "status": "passed"
+        },
+        {
+            "name": "test_3_Q_learning (principles_of_autonomy.notebook_tests.pset_7.TestPSet7)",
+            "score": 20,
+            "max_score": 20,
+            "status": "passed"
+        },
+        {
+            "name": "test_4_Q_learning (principles_of_autonomy.notebook_tests.pset_7.TestPSet7)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed"
+        },
+        {
+            "name": "test_5_form_word (principles_of_autonomy.notebook_tests.pset_7.TestPSet7)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "8.23",
+    "score": 75
+}
