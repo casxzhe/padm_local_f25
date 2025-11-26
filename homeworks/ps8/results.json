@@ -1,0 +1,121 @@
+{
+    "tests": [
+        {
+            "name": "test_01 (principles_of_autonomy.notebook_tests.pset_8.TestPSet8)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_02 (principles_of_autonomy.notebook_tests.pset_8.TestPSet8)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_03 (principles_of_autonomy.notebook_tests.pset_8.TestPSet8)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_04 (principles_of_autonomy.notebook_tests.pset_8.TestPSet8)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_05 (principles_of_autonomy.notebook_tests.pset_8.TestPSet8)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_06 (principles_of_autonomy.notebook_tests.pset_8.TestPSet8)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_07 (principles_of_autonomy.notebook_tests.pset_8.TestPSet8)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_08 (principles_of_autonomy.notebook_tests.pset_8.TestPSet8)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_09 (principles_of_autonomy.notebook_tests.pset_8.TestPSet8)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_10 (principles_of_autonomy.notebook_tests.pset_8.TestPSet8)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_11 (principles_of_autonomy.notebook_tests.pset_8.TestPSet8)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_12 (principles_of_autonomy.notebook_tests.pset_8.TestPSet8)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_13 (principles_of_autonomy.notebook_tests.pset_8.TestPSet8)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_14_BN_warmup (principles_of_autonomy.notebook_tests.pset_8.TestPSet8)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_15_BN_warmup2 (principles_of_autonomy.notebook_tests.pset_8.TestPSet8)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_16_BN_multiply (principles_of_autonomy.notebook_tests.pset_8.TestPSet8)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed"
+        },
+        {
+            "name": "test_17_BN_marginalize (principles_of_autonomy.notebook_tests.pset_8.TestPSet8)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_18_BN_inference (principles_of_autonomy.notebook_tests.pset_8.TestPSet8)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed"
+        },
+        {
+            "name": "test_19_form_word (principles_of_autonomy.notebook_tests.pset_8.TestPSet8)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.01",
+    "score": 105
+}
