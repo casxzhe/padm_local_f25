@@ -1,0 +1,79 @@
+{
+    "tests": [
+        {
+            "name": "test_01 (principles_of_autonomy.notebook_tests.pset_9.TestPSet9)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_02 (principles_of_autonomy.notebook_tests.pset_9.TestPSet9)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_03 (principles_of_autonomy.notebook_tests.pset_9.TestPSet9)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_04 (principles_of_autonomy.notebook_tests.pset_9.TestPSet9)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_05 (principles_of_autonomy.notebook_tests.pset_9.TestPSet9)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_06 (principles_of_autonomy.notebook_tests.pset_9.TestPSet9)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_07 (principles_of_autonomy.notebook_tests.pset_9.TestPSet9)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_08 (principles_of_autonomy.notebook_tests.pset_9.TestPSet9)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed"
+        },
+        {
+            "name": "test_09 (principles_of_autonomy.notebook_tests.pset_9.TestPSet9)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_10 (principles_of_autonomy.notebook_tests.pset_9.TestPSet9)",
+            "score": 25,
+            "max_score": 25,
+            "status": "passed"
+        },
+        {
+            "name": "test_11 (principles_of_autonomy.notebook_tests.pset_9.TestPSet9)",
+            "score": 25,
+            "max_score": 25,
+            "status": "passed"
+        },
+        {
+            "name": "test_12_form_word (principles_of_autonomy.notebook_tests.pset_9.TestPSet9)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.05",
+    "score": 105
+}
