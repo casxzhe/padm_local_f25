@@ -1,0 +1,61 @@
+{
+    "tests": [
+        {
+            "name": "test_01_warmup_1 (principles_of_autonomy.notebook_tests.proj_3.TestProj3)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_02_warmup_2 (principles_of_autonomy.notebook_tests.proj_3.TestProj3)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_03_motion_model (principles_of_autonomy.notebook_tests.proj_3.TestProj3)",
+            "score": 3,
+            "max_score": 3,
+            "status": "passed"
+        },
+        {
+            "name": "test_04_importance_weights (principles_of_autonomy.notebook_tests.proj_3.TestProj3)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed"
+        },
+        {
+            "name": "test_05_particle_filter (principles_of_autonomy.notebook_tests.proj_3.TestProj3)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_06_motion_model_update (principles_of_autonomy.notebook_tests.proj_3.TestProj3)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_07_new_landmarks (principles_of_autonomy.notebook_tests.proj_3.TestProj3)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed"
+        },
+        {
+            "name": "test_08_slam_weights (principles_of_autonomy.notebook_tests.proj_3.TestProj3)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed"
+        },
+        {
+            "name": "test_09_slam_particles (principles_of_autonomy.notebook_tests.proj_3.TestProj3)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.05",
+    "score": 50
+}
