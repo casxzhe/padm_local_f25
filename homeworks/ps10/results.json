@@ -1,0 +1,74 @@
+{
+    "tests": [
+        {
+            "name": "test_01_get_counts (principles_of_autonomy.notebook_tests.pset_10.TestPSet10)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed"
+        },
+        {
+            "name": "test_02_learn_params (principles_of_autonomy.notebook_tests.pset_10.TestPSet10)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed"
+        },
+        {
+            "name": "test_03_learn_distributions (principles_of_autonomy.notebook_tests.pset_10.TestPSet10)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed"
+        },
+        {
+            "name": "test_04_NB_classify (principles_of_autonomy.notebook_tests.pset_10.TestPSet10)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed"
+        },
+        {
+            "name": "test_05_loss_functions (principles_of_autonomy.notebook_tests.pset_10.TestPSet10)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed"
+        },
+        {
+            "name": "test_06_batch_gd (principles_of_autonomy.notebook_tests.pset_10.TestPSet10)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed"
+        },
+        {
+            "name": "test_07_NN (principles_of_autonomy.notebook_tests.pset_10.TestPSet10)",
+            "score": 0,
+            "max_score": 0,
+            "status": "passed"
+        },
+        {
+            "name": "test_08_NN_multiple (principles_of_autonomy.notebook_tests.pset_10.TestPSet10)",
+            "score": 0,
+            "max_score": 0,
+            "status": "passed"
+        },
+        {
+            "name": "test_09_overfit (principles_of_autonomy.notebook_tests.pset_10.TestPSet10)",
+            "score": 0,
+            "max_score": 0,
+            "status": "passed",
+            "output": "Early stopping triggered after 10 epochs without improvement.\n"
+        },
+        {
+            "name": "test_10_overfit_choice (principles_of_autonomy.notebook_tests.pset_10.TestPSet10)",
+            "score": 0,
+            "max_score": 0,
+            "status": "passed"
+        },
+        {
+            "name": "test_11 (principles_of_autonomy.notebook_tests.pset_10.TestPSet10)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.02",
+    "score": 65
+}
